@@ -2,7 +2,7 @@
 
 Pack Name
 &middot;
-[![Latest Github release](https://img.shields.io/github/release/Martinsos/edlib.svg)](//github.com/Martinsos/edlib/releases/latest)
+[![Latest Github release](https://img.shields.io/github/release/scottkillen-minecraft-textures/Resource-Pack-Template.svg)](//github.com/scottkillen-minecraft-textures/Resource-Pack-Template/releases/latest)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](//creativecommons.org/licenses/by-sa/4.0/)
 =====
 
